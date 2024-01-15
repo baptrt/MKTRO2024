@@ -6,4 +6,3 @@ testBrice
 # Second élément pertubateur
 Bonjour 
 # Situation finale
-salut c'est brice
